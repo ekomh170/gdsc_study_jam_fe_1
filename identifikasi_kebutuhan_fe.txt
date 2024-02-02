@@ -8,9 +8,10 @@ Bahasa Pemograman Yang Di Gunakan :
 Struktur Proses Berfikir Sebagai Frontend (FE) :
 
 - Kotak Kartu Profile 
-    - Gambar Profil - Pengguna Aplikasi
-    - Nama Profil - Pengguna Aplikasi
-    - Umur Profil - Pengguna Aplikasi
+    - Biodata Profil - Pengguna Aplikasi
+        - Gambar Profil 
+        - Nama Profil
+        - Umur Profil
     - Status Profile - Pengguna Aplikasi
         - Jumlah Followers 
         - Jumlah Suka 
@@ -18,10 +19,11 @@ Struktur Proses Berfikir Sebagai Frontend (FE) :
 
 Struktur Implemetasi Thinking Dalam Kodingan di HTML :
 - kotak_profil
-    - gambar_profil
-    - nama
-    - umur 
-    - lokasi_tempat
+    - biodata_profil
+        - gambar_profil
+        - nama
+        - umur 
+        - lokasi_tempat
     - status profile
         - jumlah follow
         - jumlah suka

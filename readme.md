@@ -8,24 +8,26 @@
 
 ### Struktur Proses Berfikir Sebagai Frontend (FE) :
 - Kotak Kartu Profile 
-    - Gambar Profil - Pengguna Aplikasi
-    - Nama Profil - Pengguna Aplikasi
-    - Umur Profil - Pengguna Aplikasi
+    - Biodata Profil - Pengguna Aplikasi
+        - Gambar Profil 
+        - Nama Profil
+        - Umur Profil
     - Status Profile - Pengguna Aplikasi
         - Jumlah Followers 
         - Jumlah Suka 
         - Jumlah Foto
 
-### Struktur Implemetasi Thinking Dalam Kodingan di HTML :
+Struktur Implemetasi Thinking Dalam Kodingan di HTML :
 - kotak_profil
-    - gambar_profil
-    - nama
-    - umur 
-    - lokasi_tempat
-    - status profil
-        - jumlah_follow
-        - jumlah_suka
-        - jumlah_foto
+    -biodata_profil
+        - gambar_profil
+        - nama
+        - umur 
+        - lokasi_tempat
+    - status profile
+        - jumlah follow
+        - jumlah suka
+        - jumlah foto
 
  ### Sumber Design
  https://www.frontendmentor.io/

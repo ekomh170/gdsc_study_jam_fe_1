@@ -12,6 +12,7 @@
         - Gambar Profil 
         - Nama Profil
         - Umur Profil
+        - Lokasi Profil
     - Status Profile - Pengguna Aplikasi
         - Jumlah Followers 
         - Jumlah Suka 

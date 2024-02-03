@@ -1,0 +1,86 @@
+body {
+    /* background-color:greenyellow; ; */
+    background: url('assets/img/bg-pattern-card.svg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.kotak-profil {
+    background: white 50%;
+    width: 300px;
+
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+    overflow: hidden;
+    text-align: center;
+    padding: 80px 20px 20px;
+}
+
+.kotak-profil img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.biodata_profil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.nama {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.umur {
+    font-size: 23px;
+    color: #7f8c8d;
+    margin-left: 5px;
+    font-weight: normal;
+
+}
+
+.lokasi_tempat {
+    font-size: 16px;
+    color: #7f8c8d;
+    margin-top: 5px;
+}
+
+.kotak-profil hr {
+    border: 0;
+    height: 0.5px;
+    background: #bdc3c7;
+    margin: 20px 0;
+    width: 100%;
+}
+
+
+.status_profil {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.status_profil div {
+    width: 33.3%;
+    font-size: 18px;
+    color: #2c3e50;
+    font-weight: bold;
+
+}
+
+.status_profil div span {
+    display: block;
+    margin-top: 5px;
+    font-weight: normal;
+    font-size: small;
+}

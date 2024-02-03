@@ -19,7 +19,7 @@
 
 Struktur Implemetasi Thinking Dalam Kodingan di HTML :
 - kotak_profil
-    -biodata_profil
+    - biodata_profil
         - gambar_profil
         - nama
         - umur 

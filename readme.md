@@ -35,3 +35,6 @@ Struktur Implemetasi Thinking Dalam Kodingan di HTML :
 
  ### Gambar Design
 <img src="design/desktop-design.jpg" alt="Design FE"><br>
+
+ ### Hasil Implementasi
+<img src="design/hasil-pembuatan.png" alt="Design FE"><br>

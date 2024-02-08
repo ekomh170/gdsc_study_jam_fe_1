@@ -1,4 +1,4 @@
-Study Jump Frontend #1
+Study Jam Frontend #1
 Identifikasi Kebutuhan Untuk Membuat Halaman Kartu Profil (Card Profile)
 
 Bahasa Pemograman Yang Di Gunakan :
